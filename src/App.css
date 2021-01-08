@@ -1,0 +1,71 @@
+.App {
+  text-align: start;
+  background-color: #101010;
+  color: greenyellow;
+  font-weight: bold;
+}
+
+footer ul li {
+  list-style: none;
+  font-size: 15px;
+}
+
+a {
+  color: #969393;
+}
+
+footer ul li a:hover {
+  color: white;
+}
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: green;
+}
+.button {
+  background-color: greenyellow;
+  color: #fff;
+  padding: 10px 15px;
+  border: honeydew;
+}
+
+.button:hover {
+  background: red;
+  color: #fff;
+}
+.box-1 {
+  background-color: #333;
+  color: #fff;
+
+  border-width: 3px;
+  border-bottom-width: 10px;
+  border-top-style: dotted;
+
+  border: 5px red solid;
+
+  padding: 20px;
+
+  margin-top: 20px;
+  margin: 20px 0;
+}
+/* ***Navbar** */
+.Navbar-toggle {
+  border: none !important;
+  background-color: none !important;
+}
+
+.Navbar-toggle:hover {
+  border: none;
+}
+
+.App .nav-img {
+  height: 40px;
+}
+
+#dropdown-menu-align-right {
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+}
